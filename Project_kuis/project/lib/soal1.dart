@@ -83,7 +83,7 @@ class _ProfilPageState extends State<ProfilPage> {
                   Padding(
                     padding: EdgeInsets.only(left: 100),
                     child: CircleAvatar(
-                      backgroundImage: AssetImage('assets/images/profile.jpeg'),
+                      backgroundImage: AssetImage('assets/images/profil.jpeg'),
                       radius: 30,
                     ),
                   ),
