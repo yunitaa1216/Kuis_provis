@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 onPressed: () {
                   Navigator.of(context)
                       .push(MaterialPageRoute(builder: (context) {
-                    return Jawaban2();
+                    return ProfilPage();
                   }));
                 },
                 style: ElevatedButton.styleFrom(
